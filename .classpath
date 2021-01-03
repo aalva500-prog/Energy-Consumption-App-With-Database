@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6" kind="con"/>
+	<classpathentry path="lib/commons-collections-2.1.jar" kind="lib"/>
+	<classpathentry path="lib/commons-logging-1.0.2.jar" kind="lib"/>
+	<classpathentry path="lib/commons-logging-api-1.0.2.jar" kind="lib"/>
+	<classpathentry path="lib/jasperreports-3.0.0.jar" kind="lib"/>
+	<classpathentry path="lib/jcalendar.jar" kind="lib"/>
+	<classpathentry path="lib/nimrodlf.jar" kind="lib"/>
+	<classpathentry path="lib/OfficeLnFs_2.7.jar" kind="lib"/>
+	<classpathentry path="lib/postgresql-8.1-404.jdbc2.jar" kind="lib"/>
+	<classpathentry path="lib/postgresql-8.1-404.jdbc2ee.jar" kind="lib"/>
+	<classpathentry path="lib/postgresql-8.1-404.jdbc3.jar" kind="lib"/>
+	<classpathentry path="lib/postgresql-8.1-405.jdbc3.jar" kind="lib"/>
+	<classpathentry path="" kind="output"/>
+</classpath>
