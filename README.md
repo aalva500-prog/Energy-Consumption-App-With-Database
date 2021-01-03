@@ -2,8 +2,6 @@
 
 ## Energy Consumption App with database integration
 
-**This is a Java Graphical Application that I created to show how to write and read data from binary and txt files in Java.**
-
 ### Tools used: Java, Swing, Eclipse, PostgreSQL, SQL, JasperReports
 
 **Situation:**
